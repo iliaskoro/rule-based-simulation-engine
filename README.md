@@ -27,7 +27,9 @@ It models players, teams, multiple competition types, awards, and voting mechani
 
 ### Voting System
 
-- Standalone Voting module implementing rating & decision models.
+Standalone Voting module implementing rating & decision models.
+
+---
 
 ## Project Structure
 
@@ -66,6 +68,8 @@ It models players, teams, multiple competition types, awards, and voting mechani
 └── README.md
 ```
 
+---
+
 ## Build Instructions (CMake)
 
 ```
@@ -92,8 +96,6 @@ See `docs/architecture.md` and `docs/diagrams/`.
 
 1. Derive from `Award`
 2. Implement `apply(Player&)`
-
----
 
 ## Author
 
