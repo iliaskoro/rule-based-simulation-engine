@@ -25,7 +25,7 @@ Subclasses provide the specific mechanics.
 ### Award (Abstract)
 Awards modify player state (e.g., immunity, bonus score).
 
----
+
 
 ## Competition Types
 
@@ -61,5 +61,6 @@ Voting is handled by a separate module that:
 ## UML Diagrams
 
 See `/docs/diagrams/` for class diagrams and early design.
+
 
 
