@@ -36,16 +36,12 @@ Players are evaluated based on creativity scores.
 ### Team Competition
 Teams compete; winner may grant awards to individual players.
 
----
-
 ## Voting System
 
 Voting is handled by a separate module that:
 - collects votes
 - aggregates results
 - determines outcomes
-
----
 
 ## Design Principles
 
@@ -59,6 +55,7 @@ Voting is handled by a separate module that:
 ## UML Diagrams
 
 See `/docs/diagrams/` for class diagrams and early design.
+
 
 
 
