@@ -2,8 +2,6 @@
 
 This document describes the high-level structure of the MasterChef Contest Engine.
 
-
-
 ## Core Abstractions
 
 ### Player
@@ -63,4 +61,5 @@ Voting is handled by a separate module that:
 ## UML Diagrams
 
 See `/docs/diagrams/` for class diagrams and early design.
+
 
