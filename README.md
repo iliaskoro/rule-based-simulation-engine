@@ -91,7 +91,6 @@ See `docs/architecture.md` and `docs/diagrams/`.
 3. Integrate award callbacks
 
 ### To add a new Award:
-
 1. Derive from `Award`
 2. Implement `apply(Player&)`
 
@@ -100,6 +99,7 @@ Ilias Korompilis
 
 ## License
 MIT License.
+
 
 
 
