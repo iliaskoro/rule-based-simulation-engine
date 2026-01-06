@@ -98,7 +98,6 @@ See `docs/architecture.md` and `docs/diagrams/`.
 2. Implement `apply(Player&)`
 
 ## Author
-
 Ilias Korompilis
 
 ## License
