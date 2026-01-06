@@ -20,7 +20,6 @@ It models players, teams, multiple competition types, awards, and voting mechani
 - (Easily extendable with new competition types)
 
 ### Awards
-
 - Immunity Award  
 - Food Award  
 - Excursion Award  
@@ -99,6 +98,7 @@ Ilias Korompilis
 
 ## License
 MIT License.
+
 
 
 
