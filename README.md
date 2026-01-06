@@ -26,7 +26,6 @@ It models players, teams, multiple competition types, awards, and voting mechani
 - Excursion Award  
 
 ### Voting System
-
 Standalone Voting module implementing rating & decision models.
 
 ---
@@ -101,5 +100,6 @@ Ilias Korompilis
 
 ## License
 MIT License.
+
 
 
