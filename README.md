@@ -87,7 +87,6 @@ See `docs/architecture.md` and `docs/diagrams/`.
 ## Extending the Engine
 
 ### To add a new Competition:
-
 1. Derive from `Competition`
 2. Override scoring logic
 3. Integrate award callbacks
@@ -102,4 +101,5 @@ Ilias Korompilis
 
 ## License
 MIT License.
+
 
