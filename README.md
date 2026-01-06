@@ -101,5 +101,5 @@ See `docs/architecture.md` and `docs/diagrams/`.
 Ilias Korompilis
 
 ## License
-
 MIT License.
+
